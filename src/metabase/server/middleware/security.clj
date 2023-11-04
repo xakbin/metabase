@@ -95,8 +95,7 @@
                                    "http://localhost:9630")
                                  "https://accounts.google.com"]
                   :font-src     ["*"]
-                  :img-src      ["*"
-                                 "'self' data:"]
+                  :img-src      ["'none'"]
                   :connect-src  ["'self'"
                                  ;; Google Identity Services
                                  "https://accounts.google.com"
